@@ -1,0 +1,6 @@
+[package]
+name = "fischer_yates"
+type = "lib"
+authors = ["LouGel"]
+
+[dependencies]
