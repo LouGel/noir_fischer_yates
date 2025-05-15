@@ -1,5 +1,5 @@
 [package]
-name = "fischer_yates"
+name = "fisher_yates"
 type = "lib"
 authors = ["LouGel"]
 
