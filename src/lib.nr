@@ -1,4 +1,4 @@
-use dep::std::hash::keccak256;
+use keccak256::keccak256;
 
 global DECK_SIZE: u32 = 52;
 
